@@ -16,13 +16,14 @@ O projeto é focado na construção de uma aplicação utilizando arquitetura de
       - [DockerHub - Repositório das Imagens 'buildadas'](https://hub.docker.com/u/dchagas)
 - [x] Branches e repositórios protegidos
 
-![image](https://github.com/fiap-postech-soat1-group21-stage4/.github/assets/83218983/57f8a3e1-35cf-4fb2-819c-d7e83afd78fc)
+#### Pipelines Micro Services 
+![image](https://github.com/fiap-postech-soat1-group21-stage4/.github/assets/83218983/dca5f82b-7df1-4fa1-b8fe-05e4a4f51586)
 
-![image](https://github.com/fiap-postech-soat1-group21-stage4/.github/assets/83218983/e7054ab7-1772-4049-a11b-1219352bee1f)
-![image](https://github.com/fiap-postech-soat1-group21-stage4/.github/assets/83218983/8d724a7a-c534-4023-8e8f-e4389050504f)
+#### Caso de sucesso pipelines
+![image](https://github.com/fiap-postech-soat1-group21-stage4/.github/assets/83218983/7aa01b7a-6542-4074-a84e-ed564f00f4a8)
 
-
-![image](https://github.com/fiap-postech-soat1-group21-stage4/.github/assets/83218983/050a6999-eac8-4f8a-863f-9089d30ce52a)
+#### Caso de erro pipelines
+![image](https://github.com/fiap-postech-soat1-group21-stage4/.github/assets/83218983/8e944c13-08c3-4af3-9e7c-09758ff3063d)
 
 ## Estrutura do Projeto
 - `order-api`: Micro Service Application referente a gestão de pedidos.
